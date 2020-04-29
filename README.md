@@ -6,4 +6,4 @@ This is a restaurant app that lets you add burgers by name (the burger will be a
 
 Here is a link to the deployed site on heroku:
 
-[Aaron's Friend Finder App](https://ag-friend-finder.herokuapp.com/)
+[Aaron's Eat-Da-Burger App](https://nameless-ravine-41680.herokuapp.com/)
