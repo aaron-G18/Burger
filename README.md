@@ -15,12 +15,12 @@ The main focus of this project was to utilize express, express-handlebars, objec
 ---
 
 In this project I used:
--HTML
--CSS
--JavaScript
--JQuery
--Node 
--Express
--Express-handlebars
--mysql (node.js driver for mysql)
+- HTML
+- CSS
+- JavaScript
+- JQuery
+- Node 
+- Express
+- Express-handlebars
+- mysql (node.js driver for mysql)
 
